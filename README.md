@@ -1,5 +1,6 @@
 # 🙋‍♂️ Overview
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</br></br>
 
 - 👋 Hi, I’m Md Maruf Hossain
 - 👀 I’m interested in Web Development
@@ -15,7 +16,7 @@
 
 
 
-# 📈 Current Stats
+# 📈 Current Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mdmarufhossianbd&card_width=800&background=02010130&stroke=FF6723&ring=FF6723&currStreakNum=000000&currStreakLabel=2196F3&fire=FF6723&sideLabels=2196F3&dates=000000)](https://git.io/streak-stats)
 
 # 👩‍💻 Skills
