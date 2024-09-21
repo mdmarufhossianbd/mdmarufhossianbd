@@ -17,7 +17,7 @@
 
 
 # 📈 Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdmarufhossianbd&card_width=800&background=02010130&stroke=FF6723&ring=FF6723&currStreakNum=000000&currStreakLabel=2196F3&fire=FF6723&sideLabels=2196F3&dates=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdmarufhossianbd&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&background=000000&stroke=EB18C6&ring=EB18C6)](https://git.io/streak-stats)
 
 # 👩‍💻 Skills
 <p align="center">
